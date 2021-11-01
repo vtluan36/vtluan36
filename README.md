@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2> 
+- Currently, I am focusing on PHP and Java.
+
+### Github Statistics
+<p align="left">
+  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=vtluan36&show_icons=true&count_private=true&theme=graywhite"></img>
+  <img align="center" width="340" src="https://raw.githubusercontent.com/vtluan36/my-stats/master/generated/languages.svg"></img>
+</p>
+
+![](https://komarev.com/ghpvc/?username=vtluan36)
+
 
 <!--
 **vtluan36/vtluan36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
