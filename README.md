@@ -4,7 +4,6 @@
 ### Github Statistics
 <p align="left">
   <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=vtluan36&show_icons=true&count_private=true&theme=graywhite"></img>
-  <img align="center" width="340" src="https://raw.githubusercontent.com/vtluan36/my-stats/master/generated/languages.svg"></img>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=vtluan36)
