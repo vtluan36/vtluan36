@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2> 
-- Currently, I am focusing on PHP and Java.
+- Currently, I am focusing on PHP (Magento, Wordpress, Laravel) and Java.
 
 ### Github Statistics
 <p align="left">
