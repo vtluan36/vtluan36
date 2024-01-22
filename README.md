@@ -1,20 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px"></h2> 
 - Currently, I am focusing on PHP (Magento, Wordpress, Laravel) and Java.
 
-### Github Statistics
-<p align="left">
-  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=vtluan36&show_icons=true&count_private=true&theme=graywhite"></img>
-</p>
-
-![](https://komarev.com/ghpvc/?username=vtluan36)
-
-
 [![Luan's github stats](https://github-readme-stats.vercel.app/api?username=vtluan36&count_private=true&show_icons=true)](https://github.com/vtluan36)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtluan36)](https://github.com/vtluan36)
 
-
-
+![](https://komarev.com/ghpvc/?username=vtluan36)
 
 <!--
 **vtluan36/vtluan36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
